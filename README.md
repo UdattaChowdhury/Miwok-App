@@ -1,11 +1,10 @@
 Miwok App
 ===================================
 
-This app displays lists of vocabulary words for the user to learn the Miwok language.
-Used in a Udacity course in the Beginning Android Nanodegree.
+1. This app displays lists of vocabulary words for the user to learn the Miwok language.
 
-The Miwok or Miwokan languages, also known as Moquelumnan or Miwuk, are a group of endangered languages spoken in central California by the Miwok peoples, ranging from the Bay Area to the Sierra Nevada.
-This app displays lists of vocabulary words for the user to learn the Miwok language. It contains letters, words, phrases, blood relations, and sentences along with their respective Images and Audio Playback for correct pronunciation. So, that anyone can learn the language.
+2. The Miwok or Miwokan languages, also known as Moquelumnan or Miwuk, are a group of endangered languages spoken in central California by the Miwok peoples, ranging from the  Bay Area to the Sierra Nevada.
+3. This app displays lists of vocabulary words for the user to learn the Miwok language. It contains letters, words, phrases, blood relations, and sentences along with their respective Images and Audio Playback for correct pronunciation. So, that anyone can learn the language.
 
 ![1593867196006](https://user-images.githubusercontent.com/64690177/86515888-046f3900-be3a-11ea-99ae-b583de1468a4.png)
 
